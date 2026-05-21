@@ -89,7 +89,7 @@ Data was collected from 7 sources across government reports, oil corporations, a
 - MoSPI / ClearTax — CPI basket weights, state VAT structures
 - PRS India / data.gov.in — parliamentary records on excise changes
 
-Total data collected: **125 months** of monthly pricing, **17 cities**, **11 years** of annual data.
+Total data collected: **125 months** of monthly pricing, **15 cities**, **10 years** of annual data.
 
 ---
 
@@ -210,5 +210,5 @@ This is a research-based project created using publicly available fuel price dat
 
 ## CONNECT
 
-- LinkedIn → [your LinkedIn URL]
+- LinkedIn → https://www.linkedin.com/in/sahil-soni-6b64921b4/
 - Open to Data Analyst / Business Intelligence Developer roles
