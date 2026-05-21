@@ -1,7 +1,5 @@
 # Petrol-Diesel-Price-Analysis-of-India-(2016-2026)
 
-
-# An end-to-end data analytics project focused on analyzing fuel price trends in India from 2016–2026. This project explores the relationship between petrol & diesel prices, crude oil fluctuations, inflation, taxation, and consumption patterns using data analysis and visualization techniques.
 ---
 
 ## INTRODUCTION
